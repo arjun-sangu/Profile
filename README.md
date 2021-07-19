@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![telegram badge](https://img.shields.io/badge/-TELEGRAM-blue](https://t.me/mrplantozz_bot)
+[![telegram badge](https://img.shields.io/badge/Messege-telegram-30302f?style=flat&logo=telegram)](https://t.me/mrplantozz_bot)
 
 - 📖 I’m currently studying 
 
